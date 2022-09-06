@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/actor</item>
+        <item>@font/alatsi</item>
+        <item>@font/alike</item>
+        <item>@font/amethysta</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/arimo</item>
+        <item>@font/be_vietnam_thin</item>
+        <item>@font/dm_sans</item>
+        <item>@font/dm_sans_bold</item>
+    </array>
+</resources>

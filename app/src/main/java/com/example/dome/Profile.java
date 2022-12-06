@@ -63,7 +63,7 @@ public class Profile extends AppCompatActivity {
             public void onClick(View view) {
                 AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(Profile.this);  //Creates a Pop-up Dialog
                 alertDialogBuilder.setTitle("Confirm Logout?");
-                alertDialogBuilder.setIcon(R.drawable.news);
+                alertDialogBuilder.setIcon(R.drawable.news_icon);
                 alertDialogBuilder.setMessage("Do you really want to Logout?");
                 alertDialogBuilder.setCancelable(false);
                 alertDialogBuilder.setPositiveButton("Logout", new DialogInterface.OnClickListener() {
